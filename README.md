@@ -18,6 +18,6 @@ The recipe tab and building requirement can be changed in the settings as well, 
 
 <b>Recipe Tech</b>: The building that the recipe requires.
 
-<b>Raw <Ingredients></b>: The number of raw ingredients needed for each can.
+<b>Raw [Ingredients]</b>: The number of raw ingredients needed for each can.
 
-<b>Cooked <Ingredients></b>: The number of cooked ingredients you get from each can.
+<b>Cooked [Ingredients]</b>: The number of cooked ingredients you get from each can.
