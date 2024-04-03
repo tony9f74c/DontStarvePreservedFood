@@ -1,7 +1,7 @@
 name = "Preserved Food"
 description = "Preserve your food forever!"
 author = "Tony"
-version = "240330"
+version = "240330a"
 forumthread = ""
 api_version = 10
 all_clients_require_mod = true
